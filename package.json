@@ -1,0 +1,24 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiocardoso/jstdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Sérgio Cardoso <contato@sergiocardoso.org> (http://www.sergiocardoso.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiocardoso/jstdd/issues"
+  },
+  "homepage": "https://github.com/sergiocardoso/jstdd#readme"
+}
